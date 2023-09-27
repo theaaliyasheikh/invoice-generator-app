@@ -5,7 +5,10 @@
 Successfully developed an Invoice Generator Application using React and Redux. This application lets you generate invoices by adding items, customizing quantities, entering taxes, and the date on which the item is processed. It will thus create a list of invoices by clicking on the "Add Item" button. Uses [jspdf-react](https://www.npmjs.com/package/jspdf-react) to capture the data from the modal and covert it from canvas -> pdf.
 
 ### Live Demo
-https://invoice-generator-react.netlify.app/
+
+I used Vercel for code deployment:
+
+https://invoice-generator-app-git-master-aaliya-sheikhs-projects.vercel.app/
 
 ### Installation
 
